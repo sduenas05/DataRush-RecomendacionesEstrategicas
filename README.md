@@ -47,3 +47,11 @@ git push origin equipo-nombre
 
 ¡Éxito en el reto! 💡
 -- Data Science Club at Tec
+
+
+
+
+## Contribución Santiago Dueñas
+
+🔗 [Repositorio propio](https://github.com/sduenas05/Datarush)  
+🎥 [Video de presentación](https://www.youtube.com/watch?v=tSGqRWKMByc)
